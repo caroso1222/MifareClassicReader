@@ -9,7 +9,7 @@
     <TextView
         android:id="@+id/textView1"
         android:layout_width="304dp"
-        android:layout_height="338dp"
+        android:layout_height="441dp"
         android:text="TextView" />
 
 </FrameLayout>
