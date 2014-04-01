@@ -1,1 +1,1 @@
-This is an Android app designed to read a Mifare Classic Card. It shows all the data block's values. 
+This is an Android app designed to read a Mifare Classic Card. It shows all the data block's values. Authentication is made by using the default key for all sectors (FFFFFFFFFFFF).

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+        <ImageView
+        android:id="@+id/imageView1"
+    android:layout_width="340dp"
+    android:layout_height="53dp"
+    android:layout_marginTop="1dp"
+    android:layout_marginLeft="9dp"
+    android:src="@drawable/cuadro_failure" />
+
+    <TextView
+        android:id="@+id/textSect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="4dp"
+        android:layout_centerHorizontal="false"
+        android:text="Sector" />
+    
+    
+    <TextView
+        android:id="@+id/textFailure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="29dp"
+        android:layout_centerHorizontal="false"
+        android:text="KEY AUTHENTICATION FAILURE" />
+    
+
+</RelativeLayout>
